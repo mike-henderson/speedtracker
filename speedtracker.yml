@@ -55,7 +55,7 @@ wptKey: "9833efac494a54ad25de864fb3e3f430ff2f522286fb1ba75b5039d2818c9e12db3d"
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                             #
-#  > wptUrl                                                                   #
+#  > wptUrl                                                   (!) Encrypted   #
 #                                                                             #
 #  The URL for the WebPageTest server to be used in the tests. If you're      #
 #  running a private instance, uncomment the line and insert the URL to your  #
@@ -63,7 +63,7 @@ wptKey: "9833efac494a54ad25de864fb3e3f430ff2f522286fb1ba75b5039d2818c9e12db3d"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-#wptUrl: "https://www.webpagetest.org"
+#wptUrl: "YOUR_ENCRYPTED_WPT_INSTANCE_URL"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
